@@ -1,4 +1,4 @@
-module github.com/lineageos-infra/tribble-tracker
+module github.com/iKeramat/tribble-tracker
 
 go 1.19
 

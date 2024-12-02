@@ -14,7 +14,7 @@ import (
 	"github.com/go-chi/chi/v5/middleware"
 	"github.com/go-chi/httplog"
 	_ "github.com/lib/pq"
-	"github.com/lineageos-infra/tribble-tracker/internal/db"
+	"github.com/iKeramat/tribble-tracker/internal/db"
 )
 
 type Config struct {
