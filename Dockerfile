@@ -11,4 +11,5 @@ COPY static /static
 COPY templates /templates
 COPY --from=builder /app/tribble /
 
+EXPOSE 80
 CMD ["/tribble"]
